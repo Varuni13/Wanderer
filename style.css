@@ -1,0 +1,95 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat',sans-serif;
+	background: url(1.jpeg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+h1{
+	font-size: 2rem;
+	color: #e2dbdb;
+}
+
+hr{
+	border-color:#F05F44;
+	border-width: 3px;
+	max-width: 65px;
+	background-color:#F05F44;
+	opacity: 0.9;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.buffer{
+	height:80px;
+}
+/* here we are trying to modify properties of inbuilt button */
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+}
+
+/* here we are trying to modify properties of bootstrap primary utton*/
+.btn-primary{
+	background-color: #F05F44;
+	border-color:#F05F44;
+}
+
+.btn-primary:hover{
+	background-color: #ee4b08;
+	border-color:#ee4b08 ;
+	border-width: 4px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
+
+
+/* way I did on styling CSS
+/*Container holding the image and the text 
+.container {
+   color:white;
+   font-family: 'Dancing Script', cursive;
+   font-family: 'Bree Serif', serif;
+  font-size:3em;
+  font-weight: bold;
+}
+/* Centered text 
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+div {
+  padding: 0px 0px 0px 0px;
+  box-shadow:0px 4px 5px slategrey;
+  }
+.container .btn {
+	position: absolute;
+  	top: 100%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
+ 	background-color:darkred;
+ 	color: aliceblue;
+ 	font-size: 16px;
+ 	padding: 12px 24px;
+ 	border: none;
+ 	cursor: pointer;
+ 	border-radius: 20px;
+ 	;
+}
+
+.container .btn:hover {
+  background-color: black;
+} */
+
+
+
