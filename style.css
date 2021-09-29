@@ -52,44 +52,6 @@ hr{
 
 
 
-/* way I did on styling CSS
-/*Container holding the image and the text 
-.container {
-   color:white;
-   font-family: 'Dancing Script', cursive;
-   font-family: 'Bree Serif', serif;
-  font-size:3em;
-  font-weight: bold;
-}
-/* Centered text 
-.centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-div {
-  padding: 0px 0px 0px 0px;
-  box-shadow:0px 4px 5px slategrey;
-  }
-.container .btn {
-	position: absolute;
-  	top: 100%;
-  	left: 50%;
-  	transform: translate(-50%, -50%);
- 	background-color:darkred;
- 	color: aliceblue;
- 	font-size: 16px;
- 	padding: 12px 24px;
- 	border: none;
- 	cursor: pointer;
- 	border-radius: 20px;
- 	;
-}
-
-.container .btn:hover {
-  background-color: black;
-} */
 
 
 
